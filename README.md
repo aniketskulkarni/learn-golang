@@ -20,3 +20,7 @@ Test
 Video
 * [Let's go with golang](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
 * [Concurrency](https://www.youtube.com/watch?v=LvgVSSpwND8)
+
+Courses (I purchased)
+ * [Udemy - Go lang crash course](https://www.udemy.com/course/go-programming-language-crash-course/)
+ * [Kodekloud - golang course](https://kodekloud.com/courses/golang/)
