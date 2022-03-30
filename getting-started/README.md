@@ -19,3 +19,9 @@ func main() {
 	fmt.Println("Hello, World!")
 }
 ```
+
+## Run program
+```
+learn-golang\getting-started> go run hello-world.go  
+Hello, World!
+```
